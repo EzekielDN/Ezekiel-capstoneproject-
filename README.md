@@ -1,14 +1,14 @@
 # Purpose/Problem Statement
-What does your program do? What problem/need is it addressing?
+I made my program to abbe abble to save the data that is entered into and store it for a later use. This just helps you keep track of data you might need later.
 # Target Audience 
-Who is this for? (ex: students, gamers, young adults, etc.)
-# Solution + Limitations 
-How does your project solve the problem? Are there actions your program would do to solve the problem but doesn’t do?
+This is for anyone to use in a quick manor so you don't forget any information as you're woeking.
+# Solution + Limitations
+I believe that my project helps those who need something very quickly. It doesn't redistrubute the data the way I like but it gets the jobs done.
 # Key Features / Key Components 
-List major parts of your program (what the user can do or see).
+The major parts of my program are: The Random API, while loop, continue, and break.
 # Technical Challenges + Future Plans 
-What was hard to figure out? What do you wish you could add if you had more time or more experience?
+My challenge with making this started with what API to use and how to implement it. I wish I spent time on how I wanted the program to look after it runs.
 # Project Timeline
-Briefly explain how you broke this project up across days, weeks, or months.
+I started over a month ago by adding my orginal projecet to it so i could get down it down and brainstrom what I wantd to do from there. After that I added the random api and the resquats from it, as well as the URL. I didn't touch it much until just recently where I know have it completed with everything compeleted.
 # Tools and Resources Used 
-Include websites, docs, videos, AI, etc.
+ API: https://randomuser.me/documentation
